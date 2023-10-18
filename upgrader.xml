@@ -2,7 +2,7 @@
   <channel>
     <title>Sparkle Test App Changelog</title>
     <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
-    <description>Most recent changes with links to updates.</description>
+    <description>Most recent changes with links to updates. [:mav: 0.8]</description>
     <language>en</language>
     <item>
       <title>Version 2.0</title>
