@@ -1,6 +1,6 @@
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<!-- <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Sparkle Test App Changelog</title>
+    <title>co.jeel.app</title>
     <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
     <description>Most recent changes with links to updates. [:mav: 1.2.0] </description>
     <language>en</language>
@@ -16,4 +16,17 @@
       <enclosure url="https://sparkle-project.org/files/Sparkle%20Test%20App.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw=="/>
     </item>
   </channel>
+</rss>
+ -->
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+   <channel>
+      <title>co.jeel.app</title>
+      <item>
+         <title>Version 1.15.0</title>
+         <description>Cleveland Clinic Patient App</description>
+         <pubDate>Wed, 23 Oct 2019 12:00:00 +0000</pubDate>
+         <enclosure url="https://play.google.com/store/apps/details?id=org.ccf.patientapp" sparkle:version="1.15.0" sparkle:os="iOS" />
+      </item>
+   </channel>
 </rss>
